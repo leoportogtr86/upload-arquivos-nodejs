@@ -1,0 +1,16 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "Para criar um aplicativo simples de exemplo que realiza upload de arquivos usando Node.js, você pode seguir os passos\r abaixo. Esse exemplo usará o framework Express e a biblioteca `multer` para gerenciar o upload dos arquivos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
